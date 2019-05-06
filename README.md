@@ -1,4 +1,5 @@
 # IonicCalendar
+<<<<<<< HEAD
 
 IonicCalendar on rakendus, mis laseb kasutajal lisada oma tegevusi kalendrisse.
 
@@ -17,3 +18,5 @@ Originaal juhendis on ära näidatud, kuidas tuleb luua kalender. Enda poolt muu
 ### Screenshots:
 
 
+=======
+>>>>>>> parent of b30bda8... readme
