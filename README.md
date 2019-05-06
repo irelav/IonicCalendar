@@ -15,8 +15,5 @@ Originaal juhendis on ära näidatud, kuidas tuleb luua kalender. Enda poolt muu
 2. käivitamine androidil: ionic cordova run android
 
 ### Screenshots:
-<img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214642_MyApp.jpg" alt="main_page" width="270" height="555">
-<img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214658_MyApp.jpg" alt="main_page" width="270" height="555">
-<img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214732_MyApp.jpg" alt="main_page" width="270" height="555">
-<img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214759_MyApp.jpg" alt="main_page" width="270" height="555">
+<img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214642_MyApp.jpg" alt="main_page" width="270" height="555"><img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214658_MyApp.jpg" alt="main_page" width="270" height="555"><img src="https://github.com/irelav/IonicCalendar/blob/master/img/Screenshot_20190506-214759_MyApp.jpg" alt="main_page" width="270" height="555">
 
