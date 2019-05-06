@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=uWhfwhN5IZc&t=1s
 Originaal juhendis on ära näidatud, kuidas tuleb luua kalender. Enda poolt muutsin kalendri kuupäeva esitusviisi, paigutust, disaini ning lisasin "About" lehe, et oleks "vähemalt kahe leheline rakendus".
 
 ### Installeerimine
-1. npm install
+1. npm install -g ionic
 2. veebibrauseris vaatamine: ionic serve
 2. käivitamine androidil: ionic cordova run android
 
